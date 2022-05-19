@@ -12,7 +12,6 @@ namespace CSharp
         {
             Methods.start();
             ForLoop.start();
-            
             Console.Read();
         }
     }
