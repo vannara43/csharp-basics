@@ -19,6 +19,13 @@ namespace CSharp
 			{
                 Console.WriteLine(testcaseid[i]);
 			}
+
+            string[] testcaseName = new string[] { "James", "Daniel", "Oscar" };
+            foreach (var testcase in testcaseName)
+            {
+                Console.WriteLine(testcase);
+            }
+
         }
 
 
