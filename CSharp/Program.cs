@@ -10,7 +10,6 @@ namespace CSharp
     {
         static void Main(string[] args)
         {
-            //pushing
             Console.WriteLine("Initialize .NET");
             Console.Read();
         }
