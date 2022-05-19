@@ -8,5 +8,9 @@ namespace CSharp
 {
     internal class forLoop
     {
+        public static void start()
+        {
+
+        }
     }
 }
