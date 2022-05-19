@@ -1,0 +1,8 @@
+C:\Users\vanna\source\repos\CSharp\CSharp\bin\Debug\CSharp.exe.config
+C:\Users\vanna\source\repos\CSharp\CSharp\bin\Debug\CSharp.exe
+C:\Users\vanna\source\repos\CSharp\CSharp\bin\Debug\CSharp.pdb
+C:\Users\vanna\source\repos\CSharp\CSharp\obj\Debug\CSharp.csproj.AssemblyReference.cache
+C:\Users\vanna\source\repos\CSharp\CSharp\obj\Debug\CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanna\source\repos\CSharp\CSharp\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\vanna\source\repos\CSharp\CSharp\obj\Debug\CSharp.exe
+C:\Users\vanna\source\repos\CSharp\CSharp\obj\Debug\CSharp.pdb
