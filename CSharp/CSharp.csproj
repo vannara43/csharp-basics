@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Arrays.cs" />
     <Compile Include="ForLoop.cs" />
+    <Compile Include="GenericCollection.cs" />
     <Compile Include="Methods.cs" />
     <Compile Include="NonGenericCollections.cs" />
     <Compile Include="Program.cs" />

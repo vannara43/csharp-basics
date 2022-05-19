@@ -13,7 +13,8 @@ namespace CSharp
             //Methods.start();
             //ForLoop.start();
             //arrays.start();
-            NonGenericCollections.start();
+            //NonGenericCollections.start();
+            GenericCollection.start();
             Console.Read();
         }
     }
