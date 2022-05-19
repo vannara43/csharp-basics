@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharp
 {
-    internal class forLoop
+    internal class ForLoop
     {
         public static void start()
         {

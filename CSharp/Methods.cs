@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace CSharp
 {
-    internal class Program
+    internal class Methods
     {
-        static void Main(string[] args)
+        public static void start()
         {
-            Methods.start();
-            ForLoop.start();
-            Console.Read();
+            Console.WriteLine("Method Example");
         }
     }
 }
