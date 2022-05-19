@@ -10,8 +10,9 @@ namespace CSharp
     {
         static void Main(string[] args)
         {
-            Methods.start();
-            ForLoop.start();
+            //Methods.start();
+            //ForLoop.start();
+            Arrays.start();
             Console.Read();
         }
     }
