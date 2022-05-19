@@ -10,8 +10,8 @@ namespace CSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Initialize .NET");
             forLoop.start();
+            
             Console.Read();
         }
     }
