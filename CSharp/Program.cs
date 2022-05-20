@@ -14,7 +14,8 @@ namespace CSharp
             //ForLoop.start();
             //arrays.start();
             //NonGenericCollections.start();
-            GenericCollection.start();
+            //GenericCollection.start();
+            CustomClassGenericCollection.start();
             Console.Read();
         }
     }
